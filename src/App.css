@@ -1,0 +1,22 @@
+.tabs {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .tabs li {
+    padding: 10px;
+    cursor: pointer;
+    background: #eee;
+    margin-right: 5px;
+  }
+  
+  .tabs li:hover {
+    background: #ddd;
+  }
+  
+  .content {
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+  }
