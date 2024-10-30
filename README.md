@@ -1,11 +1,11 @@
 # react-tabs-challenge
 
 
-## Overview
+### Overview
 
 This project is a responsive Tab Component built according to the design specifications provided. The component adapts to different screen sizes and meets all design and functionality requirements, ensuring a seamless user experience across both desktop and mobile devices.
 
-Features
+### Features
 
 Tab Layout: A dynamic tab component with multiple tabs, displaying content based on the active tab.
 Responsive Design: The component is fully responsive, designed to display two tabs per row on mobile screens for improved usability.
