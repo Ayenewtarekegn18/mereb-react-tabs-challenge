@@ -1,11 +1,11 @@
 # react-tabs-challenge
 
 
-#Overview
+Overview
 
 This project is a responsive Tab Component built according to the design specifications provided. The component adapts to different screen sizes and meets all design and functionality requirements, ensuring a seamless user experience across both desktop and mobile devices.
 
-#Features
+Features
 
 Tab Layout: A dynamic tab component with multiple tabs, displaying content based on the active tab.
 Responsive Design: The component is fully responsive, designed to display two tabs per row on mobile screens for improved usability.
@@ -16,7 +16,8 @@ React: For building the component.
 CSS: Custom CSS for styling and responsiveness.
 Jest (optional): For testing functionality, if applicable.
 
-#Installation
+Installation
+
 Clone the repository:
 bash
 Copy code
@@ -34,7 +35,7 @@ bash
 Copy code
 npm start
 
-#Usage
+Usage
 
 The component displays different content based on the selected tab. On desktop, tabs are displayed in a single row. On mobile, tabs are shown two at a time per row for enhanced readability and usability.
 
@@ -52,12 +53,14 @@ The component behaves as expected for different screen sizes.
 Content updates based on the active tab.
 Responsiveness and styling meet the specified design requirements.
 
-#Screenshots
+Screenshots
 
 Desktop View
+
 ![Screenshot 2024-10-30 111428](https://github.com/user-attachments/assets/28a15c26-f449-4074-af6c-5b254806464d)
 
 Mobile View
+
 ![Screenshot 2024-10-30 111535](https://github.com/user-attachments/assets/25d04534-ad53-4dcf-a45d-e07893cf7007)
 
 License
