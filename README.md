@@ -16,7 +16,7 @@ React: For building the component.
 CSS: Custom CSS for styling and responsiveness.
 Jest (optional): For testing functionality, if applicable.
 
-Installation
+### Installation
 
 Clone the repository:
 bash
@@ -35,11 +35,11 @@ bash
 Copy code
 npm start
 
-Usage
+### Usage
 
 The component displays different content based on the selected tab. On desktop, tabs are displayed in a single row. On mobile, tabs are shown two at a time per row for enhanced readability and usability.
 
-Testing
+### Testing
 
 To run the tests, use the following command:
 
@@ -53,7 +53,7 @@ The component behaves as expected for different screen sizes.
 Content updates based on the active tab.
 Responsiveness and styling meet the specified design requirements.
 
-Screenshots
+### Screenshots
 
 Desktop View
 
