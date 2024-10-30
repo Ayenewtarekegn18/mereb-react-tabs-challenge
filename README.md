@@ -39,7 +39,7 @@ Usage
 
 The component displays different content based on the selected tab. On desktop, tabs are displayed in a single row. On mobile, tabs are shown two at a time per row for enhanced readability and usability.
 
-#Testing
+Testing
 
 To run the tests, use the following command:
 
