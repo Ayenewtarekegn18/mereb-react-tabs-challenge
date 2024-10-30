@@ -1,7 +1,7 @@
 # react-tabs-challenge
 
 
-Overview
+## Overview
 
 This project is a responsive Tab Component built according to the design specifications provided. The component adapts to different screen sizes and meets all design and functionality requirements, ensuring a seamless user experience across both desktop and mobile devices.
 
